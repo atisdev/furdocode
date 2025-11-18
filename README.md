@@ -6,7 +6,7 @@
 
 ### `Projektjeink`
 - **Weboldal** készítés a **furdoCode** oldalának.
-- **Paraván** egy alternatív kliensalkalmazás az e-Krétához. [github.com/paravan](https://github.com/atisdev/paravan/blob/main/README.md)
+- **[Paraván](https://github.com/atisdev/paravan/blob/main/README.md)** egy alternatív kliensalkalmazás az e-Krétához.
 
 ### `Elérhetőségeink`
 - **Weboldal**: [furdoCode.hu](https://furdocode.hu/)
